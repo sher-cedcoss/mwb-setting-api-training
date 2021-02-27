@@ -12,7 +12,7 @@
  */
 
 
-// try to create a branch
+
 
 add_action('admin_menu', 'replace_word');
 
